@@ -14,3 +14,5 @@ The average low temperatures vary across different months, ranging from around -
 The average pressure also fluctuates throughout the Martian months, indicating potential seasonal variations.
 The dataset seems to be well-structured and free from major inconsistencies However, further analysis and validation may be required depending on the specific research or application.
 The analyzed data has been exported to a CSV file named "mars_weather.csv" for further reference and analysis.
+
+i referenced chat gpt along with class notes in ordered to correct my work
